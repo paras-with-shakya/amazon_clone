@@ -16,6 +16,5 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
     // alert("Document is ready!");
-    // Your code here
 
 });
